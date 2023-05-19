@@ -6,6 +6,14 @@
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bulli77)
 [![CS](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://counter-strike.com)
 
+[![DDXC](https://img.shields.io/badge/Visionary%20-Coder-blue)](https://www.ddx-solutuions.com/)
+[![DDXD](https://img.shields.io/badge/Visionary%20-Devloper-brightgreen)](https://www.ddx-solutuions.com/)
+[![DDXW](https://img.shields.io/badge/Code-Wizard-red)](https://www.ddx-solutuions.com/)
+[![DDXHF](https://img.shields.io/badge/FreeFree--Thinking%20Mind-Hackathon-yellow)](https://www.ddx-solutuions.com/)
+[![DDXNJ](https://img.shields.io/badge/Ninja-Programmer-HVIT)](https://www.ddx-solutuions.com/)
+[![DDXNJ](https://img.shields.io/badge/Crunch-Time-red)](https://www.ddx-solutuions.com/)
+
+
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 # 💻 Tech Stack:
