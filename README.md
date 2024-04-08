@@ -1,4 +1,4 @@
-## 🌐 Who am I? Just Trenu here or Bulli there and somewhere else Dax 😋 - Socials:
+## 🌐 Who am I? Just TRENU here or BULLI there and somewhere else DAX 😋 - Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dax_dxsolution) 
 [![Mail](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:partnership@ddx-solutuions.com) 
 [![WWW](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ddx-solutuions.com)
