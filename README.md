@@ -8,7 +8,7 @@
 
 [![DDXC](https://img.shields.io/badge/Visionary%20-Coder-blue)](https://www.ddx-solutuions.com/)
 [![DDXD](https://img.shields.io/badge/Visionary%20-Devloper-brightgreen)](https://www.ddx-solutuions.com/)
-[![DDXW](https://img.shields.io/badge/Code-Wizard-red)](https://www.ddx-solutuions.com/)
+[![DDXW](https://img.shields.io/badge/RubberDucky-Coding%20-yellow?style=flat-square&logo=rubber&logoColor=orange)](https://github.com/Bulli77)
 [![DDXHF](https://img.shields.io/badge/FreeFree--Thinking%20Mind-Hackathon-yellow)](https://www.ddx-solutuions.com/)
 [![DDXNJ](https://img.shields.io/badge/Ninja-Programmer-HVIT)](https://www.ddx-solutuions.com/)
 [![DDXNJ](https://img.shields.io/badge/Crunch-Time-red)](https://www.ddx-solutuions.com/)
