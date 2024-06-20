@@ -1,4 +1,4 @@
-## 🌐 Who am I? Just TRENU here or BULLI there and somewhere else DAX 😋 - Socials:
+## 🌐 Who am I? I'm a devreloper and cybersecurity enthusiast. The ADHD that I have inherited drives me to create new ideas - but I don't throw them in the bag of ideas that are dusting... Klik Klik 🥷🏻 Ninja Code iin action. Over 120 repositories, 70% of which I own ... how much money have I made from them? My dear friends, I create for you, for your safety, giving you something that I have created with my time to make your work better! a. When I'm not working on code, I'm hiking, playing or writing myself a book... then what. "Let's build something amazing" ... and you can BUY ME ☕️ if you want. Thank you and welcome to the world of code 😋 - Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dax_dxsolution) 
 [![Mail](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:partnership@ddx-solutuions.com) 
 [![WWW](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ddx-solutuions.com)
@@ -36,4 +36,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Bulli77&icon=9&color=8)](https://visitcount.itsvg.in)
 
+[![Buy me a CodeCoffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20CodeCoffee&emoji=☕&slug=codeberserker&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codeberserker)
 
