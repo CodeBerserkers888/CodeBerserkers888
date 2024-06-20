@@ -34,8 +34,6 @@ Thanks for yours support 🧨🧨🧨
 [![DDXNJ](https://www.codewars.com/users/Bulli77/badges/small)](https://www.ddx-solutuions.com/)
 
 
-
-
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 # 💻 Tech Stack:
@@ -49,9 +47,9 @@ Thanks for yours support 🧨🧨🧨
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=dax_dxsolution)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 🔝 Top Contributed Repo
 
-[![](https://github-contributor-stats.vercel.app/api?username=Bulli77&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- END BADGIE TIME -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeBerserkers888&icon=9&color=8)](https://visitcount.itsvg.in)
