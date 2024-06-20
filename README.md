@@ -6,8 +6,13 @@ I'm hiking, playing or writing myself a book... then what.
 ## "Let's build something amazing" ... and you can.... Thank you and welcome to the world of code 😋 
 <a href="https://www.buymeacoffee.com/codeberserker" style="display: inline-block;">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20CodeCoffee&emoji=☕&slug=codeberserker&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="200">
-</a>
-## Thanks for yours support 🧨🧨🧨
+</a> 
+
+Thanks for yours support 🧨🧨🧨
+
+
+
+----------------------------------------------
 
 - Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dax_dxsolution) 
