@@ -60,9 +60,18 @@ Thanks for yours support 🧨🧨🧨
 <!-- END BADGIE TIME -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CodeBerserkers888&icon=9&color=8)](https://visitcount.itsvg.in)
+
 
 [![Buy me a CodeCoffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20CodeCoffee&emoji=☕&slug=codeberserker&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codeberserker)
 
 
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
 
