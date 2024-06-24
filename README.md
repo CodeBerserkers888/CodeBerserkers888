@@ -31,7 +31,7 @@ Thanks for yours support 🧨🧨🧨
 [![DDXHF](https://img.shields.io/badge/FreeFree--Thinking%20Mind-Hackathon-yellow)](https://www.ddx-solutuions.com/)
 [![DDXNJ](https://img.shields.io/badge/Ninja-Programmer-HVIT)](https://www.ddx-solutuions.com/)
 [![DDXNJ](https://img.shields.io/badge/Crunch-Time-red)](https://www.ddx-solutuions.com/)
-[![DDXNJ](https://www.codewars.com/users/Bulli77/badges/small)](https://www.ddx-solutuions.com/)
+
 
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
@@ -43,6 +43,7 @@ Thanks for yours support 🧨🧨🧨
 ![](https://github-stats-sigma-five.vercel.app/api?username=Bulli77&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bulli77&theme=react&hide_border=false)<br/>
 ![](https://github-stats-sigma-five.vercel.app/api/top-langs/?username=Bulli77&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![DDXNJ](https://www.codewars.com/users/Bulli77/badges/small)](https://www.ddx-solutuions.com/)
 
 ###
 
