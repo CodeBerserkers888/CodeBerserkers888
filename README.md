@@ -43,7 +43,7 @@ Thanks for yours support 🧨🧨🧨
 ![](https://github-stats-sigma-five.vercel.app/api?username=Bulli77&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bulli77&theme=react&hide_border=false)<br/>
 ![](https://github-stats-sigma-five.vercel.app/api/top-langs/?username=Bulli77&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![DDXNJ](https://www.codewars.com/users/Bulli77/badges/small)](https://www.ddx-solutuions.com/)
+[![DDXNJ](https://www.codewars.com/users/CodeBerserkers888/badges/small)](https://www.ddx-solutuions.com/)
 
 ###
 
