@@ -1,9 +1,41 @@
 ## 🌐 Who am I? I'm a devreloper and cybersecurity enthusiast. 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C828%20hrs%209%27mins-blue)
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![GitHub followers](https://img.shields.io/github/followers/CodeBerserkers888?label=Follow&style=social)
+
+##
 The ADHD that I have inherited drives me to create new ideas - but I don't throw them in the bag of ideas that are dusting... Klik Klik 🥷🏻 Ninja Code iin action. 
 How much money have I made from them? 
 My dear friends, I create for you, for your safety, giving you something that I have created with my time to make your work better!  
 When I'm not working on code.....
 I'm hiking, playing or writing myself a book... then what. 
+
+```javascript
+const DDX_CodeBerserkers888 = {
+    pronouns: "He",
+    code: ["Ract", "Python", "Java", ".net","PHP"],
+    askMeAbout: ["front-end", "back-end", "app dev"],
+    technologies: {
+        backEnd & frontEnd: {
+            ADHD_mode.js: ["front-end", "back-end", "app dev"],
+        },
+        mobileApp: {
+            native: ["Android"]
+        },
+        devOps: ["AWS", "Docker🐳", "Netlify", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        relax_mode.bin: ["CS", "Herbs", "Meditation", "GitHub", "VSCode", "(.)(.)"]
+    },
+    architecture: ["SA", "PwA", "SPA"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+
+
+
 ## "Let's build something amazing" ... and you can.... 
 ## Thank you and welcome to the world of code 😋 
 <a href="https://www.buymeacoffee.com/codeberserker" style="display: inline-block;">
@@ -12,7 +44,7 @@ I'm hiking, playing or writing myself a book... then what.
 
 Thanks for yours support 🧨🧨🧨
 ##
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+ 
 ##
 
 
@@ -62,8 +94,9 @@ Thanks for yours support 🧨🧨🧨
 
 
 
-## 🐦 Latest Tweet
+## 🐦 Time ...
 [![](https://gtce.itsvg.in/api?username=dax_dxsolution)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 
 
