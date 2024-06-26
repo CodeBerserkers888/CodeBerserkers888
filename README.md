@@ -1,15 +1,20 @@
-## 🌐 Who am I? I'm a devreloper and cybersecurity enthusiast. 
+## <p align="center"> 🌐 Who am I? I'm a devreloper and Cybersecurity enthusiast. </p>
+
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C828%20hrs%209%27mins-blue)
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+
 ![GitHub followers](https://img.shields.io/github/followers/CodeBerserkers888?label=Follow&style=social)
 
-##
-The ADHD that I have inherited drives me to create new ideas - but I don't throw them in the bag of ideas that are dusting... Klik Klik 🥷🏻 Ninja Code iin action. 
-How much money have I made from them? 
-My dear friends, I create for you, for your safety, giving you something that I have created with my time to make your work better!  
-When I'm not working on code.....
-I'm hiking, playing or writing myself a book... then what. 
+<p align="center">
+<b>The ADHD I inherited drives me to create new ideas - but I don't throw them in the bag of ideas that are dusting... Click Click 🥷🏻 Ninja Code in action.</b><br>
+<b>How much money have I made from them?</b><br>
+My dear friends, I create for you, for your safety, giving you something that I have created with my time to make your work better!<br>
+<br>
+<b>When I'm not working on code...</b><br>
+I'm hiking, playing or writing myself a book... then what.</p>
+
 
 ```javascript
 const DDX_CodeBerserkers888 = {
@@ -33,19 +38,8 @@ const DDX_CodeBerserkers888 = {
 };
 ```
 
-
-
-
 ## "Let's build something amazing" ... and you can.... 
-## Thank you and welcome to the world of code 😋 
-<a href="https://www.buymeacoffee.com/codeberserker" style="display: inline-block;">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20CodeCoffee&emoji=☕&slug=codeberserker&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="200">
-</a> 
 
-Thanks for yours support 🧨🧨🧨
-##
- 
-##
 
 
 ----------------------------------------------
@@ -105,8 +99,6 @@ Thanks for yours support 🧨🧨🧨
 ---
 
 
-[![Buy me a CodeCoffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20CodeCoffee&emoji=☕&slug=codeberserker&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codeberserker)
-
 
 <br/>  
 
@@ -126,3 +118,6 @@ Thanks for yours support 🧨🧨🧨
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=cobalt)
+
+[![Buy me a CodeCoffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20CodeCoffee&emoji=☕&slug=codeberserker&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codeberserker)
+
