@@ -38,7 +38,7 @@ const DDX_CodeBerserkers888 = {
 };
 ```
 
-## "Let's build something amazing" ... and you can.... 
+## Let's build something amazing...... 
 
 
 
