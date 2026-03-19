@@ -70,9 +70,9 @@ const DDX_CodeBerserkers888 = {
 ## Statistics 
 <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px>
 
-![](https://github-stats-sigma-five.vercel.app/api?username=Bulli77&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bulli77&theme=react&hide_border=false)<br/>
-![](https://github-stats-sigma-five.vercel.app/api/top-langs/?username=Bulli77&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-stats-sigma-five.vercel.app/api?username=CodeBerserkers888&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodeBerserkers888&theme=react&hide_border=false)<br/>
+![](https://github-stats-sigma-five.vercel.app/api/top-langs/?username=CodeBerserkers888&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![DDXNJ](https://www.codewars.com/users/CodeBerserkers888/badges/small)](https://www.ddx-solutuions.com/)
 
 
